@@ -11,13 +11,13 @@ A straightforward server-client model built on gRPC
 go mod tidy 
 ```
 
-### Run server.go
+### Run Server
 
 ```shell
 go run server/server.go
 ```
 
-### Run client.go
+### Run Client
 ```shell
 go run client/client.go
 ```

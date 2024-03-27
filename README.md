@@ -8,7 +8,7 @@ A straightforward server-client model built on gRPC
 ### Installation
 ```shell
 # install all dependencies
-go mod tidy 
+go mod download
 ```
 
 ### Run Server
